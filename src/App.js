@@ -8,7 +8,10 @@ function App() {
       </header>
       <footer>
         This project was coded by Fausta Ciku and it is{" "}
-        <a href="https://github.com/faustaciku/react-weather-app">
+        <a
+          href="https://github.com/faustaciku/react-weather-app"
+          target="_blank"
+        >
           {" "}
           open-sourced.
         </a>
