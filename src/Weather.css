@@ -1,0 +1,13 @@
+h2 {
+  font-size: 48px;
+}
+.Weather #temp {
+  font-size: 50px;
+}
+.weather-info {
+  font-size: 20px;
+}
+.Weather #search-input,
+#search-button {
+  border-radius: 20px;
+}

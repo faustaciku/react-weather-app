@@ -1,3 +1,10 @@
 .App {
   text-align: center;
 }
+.App header {
+  max-width: fit-content;
+  margin: 50px auto;
+  padding: 50px;
+  border: 1px solid rgb(98, 98, 244);
+  border-radius: 20px 120px;
+}
