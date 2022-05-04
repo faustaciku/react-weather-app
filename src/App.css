@@ -2,9 +2,11 @@
   text-align: center;
 }
 .App header {
+  color: rgb(255, 255, 255);
   max-width: fit-content;
   margin: 50px auto;
   padding: 50px;
-  border: 1px solid rgb(98, 98, 244);
+  border: 1px solid #7a7998;
   border-radius: 20px 120px;
+  background-image: url(background.jpg);
 }
