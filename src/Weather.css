@@ -11,3 +11,9 @@ h2 {
 #search-button {
   border-radius: 20px;
 }
+.Weather canvas {
+  height: 80px;
+  width: 80px;
+  margin-top: 10px;
+  display: inline-block;
+}
