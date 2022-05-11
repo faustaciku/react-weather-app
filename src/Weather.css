@@ -17,3 +17,13 @@ h2 {
   margin-top: 10px;
   display: inline-block;
 }
+.temperature {
+  font-size: 53px;
+  margin-top: -20px;
+}
+.unit {
+  font-size: 15px;
+  position: relative;
+  top: -25px;
+  left: -10px;
+}
