@@ -1,0 +1,7 @@
+.forecast-day {
+  font-size: 20px;
+  padding-top: 10px;
+}
+.forecast-temperature-min {
+  opacity: 0.6;
+}
