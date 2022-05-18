@@ -11,15 +11,19 @@ h2 {
 #search-button {
   border-radius: 20px;
 }
-.Weather canvas {
-  height: 80px;
-  width: 80px;
-  margin-top: 10px;
-  display: inline-block;
+#description {
+  font-size: 15px;
+  margin-top: -20px;
+}
+#humidity,
+#wind {
+  font-size: 17px;
 }
 .temperature {
   font-size: 53px;
-  margin-top: -20px;
+  position: relative;
+  left: 10px;
+  top: -20px;
 }
 .unit {
   font-size: 15px;
